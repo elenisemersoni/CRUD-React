@@ -1,7 +1,7 @@
 
 
 .header{
-  background-color: Salmon;
+  background-color: rgb(199, 96, 82);
   
 }
 
@@ -9,11 +9,17 @@
   text-align: center;
 }
 .nav-links a{
-  color: antiquewhite;
+  color: snow;
 
 }
 
 .nav-links a:hover{
-  color: antiquewhite;
+  color: snow;
   
+}
+
+
+.fonte2 {
+  font-family: 'Alex Brush', cursive;
+  font-family: 'Arsenal', sans-serif;
 }

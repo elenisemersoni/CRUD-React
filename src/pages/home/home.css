@@ -1,0 +1,54 @@
+.home {
+    
+    background-color: rgb(201, 127, 119);
+}
+
+.titulo{
+    text-align: center;
+    font-size: 40px;
+    padding-top: 2rem;
+    color:antiquewhite;
+}
+
+.foto {
+height: 100%;
+width: 100%;
+}
+
+.foto2{
+    height: 100%;
+    width: 100%;
+}
+
+
+
+.fonte {
+    font-family: 'Alex Brush', cursive;
+    font-family: 'Arsenal', sans-serif;
+    font-family: 'Mrs Saint Delafield', cursive;
+    font-family: 'Petit Formal Script', cursive;
+    font-size: 30px;
+}
+
+.borda {
+    border: 1px solid antiquewhite;
+    background-color: antiquewhite;
+    border-radius: 10px;
+
+}
+
+.texto{
+    color: rgb(199, 96, 82);
+    font-family: 'Alex Brush', cursive;
+    font-family: 'Arsenal', sans-serif;
+    font-family: 'Mrs Saint Delafield', cursive;
+    font-family: 'Petit Formal Script', cursive;
+    font-family: 'Sofia', cursive;  
+
+    font-size: 20px
+}
+
+.texto2 {
+    color: rgb(199, 96, 82);
+    font-family: 'Open Sans Condensed', sans-serif;
+}
